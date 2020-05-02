@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "232341228096",
+    "firebase_url": "https://hts-dd14c.firebaseio.com",
+    "project_id": "hts-dd14c",
+    "storage_bucket": "hts-dd14c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232341228096:android:669342a2d4cbfdf4b76da5",
+        "android_client_info": {
+          "package_name": "com.bhumik.hts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232341228096-lb41aed5cep2egtd7o6fp8dbkk0ecm3m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bhumik.hts",
+            "certificate_hash": "64b56e807f4171deb3fa8943ef924ac9fa02b531"
+          }
+        },
+        {
+          "client_id": "232341228096-9u264641smgunei15pid9ss39t13d6hi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDtIHzCXjNfdMzcnSge7Ru0PtbKa64ee8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232341228096-9u264641smgunei15pid9ss39t13d6hi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
